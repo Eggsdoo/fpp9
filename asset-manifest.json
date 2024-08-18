@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/fpp9/static/css/main.2bdc0bb6.css",
-    "main.js": "/fpp9/static/js/main.bc6c7aa9.js",
+    "main.css": "/fpp9/static/css/main.50c6200f.css",
+    "main.js": "/fpp9/static/js/main.c73de774.js",
     "static/js/453.316de04b.chunk.js": "/fpp9/static/js/453.316de04b.chunk.js",
     "static/media/wajid-zaman.png": "/fpp9/static/media/wajid-zaman.e650f8667f951b026e10.png",
-    "static/media/saf-logo.png": "/fpp9/static/media/saf-logo.d5c1addd7638f47f58c0.png",
+    "static/media/SPP-Campaign.pdf": "/fpp9/static/media/SPP-Campaign.4c43630798faaa43d99e.pdf",
+    "static/media/spp-logo.png": "/fpp9/static/media/spp-logo.eef803b5e83eab82ed48.png",
     "static/media/tcq-bg.jpg": "/fpp9/static/media/tcq-bg.8131f5176909233d2337.jpg",
     "index.html": "/fpp9/index.html",
-    "main.2bdc0bb6.css.map": "/fpp9/static/css/main.2bdc0bb6.css.map",
-    "main.bc6c7aa9.js.map": "/fpp9/static/js/main.bc6c7aa9.js.map",
+    "main.50c6200f.css.map": "/fpp9/static/css/main.50c6200f.css.map",
+    "main.c73de774.js.map": "/fpp9/static/js/main.c73de774.js.map",
     "453.316de04b.chunk.js.map": "/fpp9/static/js/453.316de04b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bdc0bb6.css",
-    "static/js/main.bc6c7aa9.js"
+    "static/css/main.50c6200f.css",
+    "static/js/main.c73de774.js"
   ]
 }
