@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/fpp9/static/css/main.dde64c0a.css",
-    "main.js": "/fpp9/static/js/main.90334d1c.js",
+    "main.css": "/fpp9/static/css/main.14e07701.css",
+    "main.js": "/fpp9/static/js/main.962a40c7.js",
     "static/js/453.316de04b.chunk.js": "/fpp9/static/js/453.316de04b.chunk.js",
     "static/media/SPP-Campaign.pdf": "/fpp9/static/media/SPP-Campaign.4c43630798faaa43d99e.pdf",
-    "static/media/maryam-k.png": "/fpp9/static/media/maryam-k.da1abbf92055eb1d70db.png",
     "static/media/spp-logo.png": "/fpp9/static/media/spp-logo.eef803b5e83eab82ed48.png",
     "static/media/umar-khalil.png": "/fpp9/static/media/umar-khalil.0439e472f8eb0a8cf6a9.png",
     "static/media/tcq-bg.jpg": "/fpp9/static/media/tcq-bg.8131f5176909233d2337.jpg",
-    "static/media/blank-mal.png": "/fpp9/static/media/blank-mal.dfe83fdfea66b0ddfbb1.png",
-    "static/media/blank-fem.png": "/fpp9/static/media/blank-fem.2832d5784d11ab684338.png",
     "index.html": "/fpp9/index.html",
-    "main.dde64c0a.css.map": "/fpp9/static/css/main.dde64c0a.css.map",
-    "main.90334d1c.js.map": "/fpp9/static/js/main.90334d1c.js.map",
+    "main.14e07701.css.map": "/fpp9/static/css/main.14e07701.css.map",
+    "main.962a40c7.js.map": "/fpp9/static/js/main.962a40c7.js.map",
     "453.316de04b.chunk.js.map": "/fpp9/static/js/453.316de04b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dde64c0a.css",
-    "static/js/main.90334d1c.js"
+    "static/css/main.14e07701.css",
+    "static/js/main.962a40c7.js"
   ]
 }
